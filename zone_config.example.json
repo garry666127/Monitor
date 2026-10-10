@@ -1,0 +1,16 @@
+{
+  "video_width": 736,
+  "video_height": 480,
+  "main_roi": {
+    "x": 0,
+    "y": 0,
+    "width": 736,
+    "height": 480
+  },
+  "person_zone": {
+    "x": 0,
+    "y": 0,
+    "width": 736,
+    "height": 480
+  }
+}
